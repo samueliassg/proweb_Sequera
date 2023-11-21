@@ -46,8 +46,8 @@ evaluacion Nro.1 20%
 5. **Cambios en el Archivo README.md:**
     - Creamos una carpeta llamada "imagenes" para poder incluir todas las imagenes que necesitamos en nuestro README.
     - Entramos a la ruta del proyecto, abrimos el archivo README.md en VSCode y empezamos a describir los pasos que hicimos.
-    - Usamos `git add README.md` para agregar nuestra carpeta de imagenes y hacemos un commit "cambios README" para guardar.
-    - Por ultimo hacemos `git push origin main` para subir nuestros cambios a github.
+    - Usamos `git add README.md imagenes/` para agregar nuestra carpeta de imagenes y hacemos un commit "cambios README" para guardar.
+    - Por ultimo hacemos `git push origin` para subir nuestros cambios a github.
 
 
 
